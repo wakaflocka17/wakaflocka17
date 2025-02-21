@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 **MSc Student** in Applied Artificial Intelligence @ University of Cagliari  
-- 💼 *All of my projects are available* [**here**](https://www.wakaflocka17.github.io)  
+- 💼 *All of my projects are available* [**here**](https://wakaflocka17.github.io)  
 - 📫 **Contact me** at **francescouni17@gmail.com**
 
 ## 🛠️ Skills & Tools
