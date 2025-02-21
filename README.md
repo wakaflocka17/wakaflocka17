@@ -35,7 +35,7 @@
 
 ## 🛠️ Skills & Tools
 
-<table>
+<table align="center">
   <tr>
     <th><strong>Languages</strong></th>
     <th><strong>Framework & Libraries</strong></th>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <!-- LINGUAGGI -->
-    <td valign="top">
+    <td valign="top" align="center">
       <!-- C -->
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" />
@@ -90,7 +90,7 @@
       </a>
     </td>
     <!-- FRAMEWORK & LIBRARIES -->
-    <td valign="top">
+    <td valign="top" align="center">
       <!-- Angular -->
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/>
@@ -157,7 +157,7 @@
       </a>
     </td>
     <!-- DEVOPS & TOOLS -->
-    <td valign="top">
+    <td valign="top" align="center">
       <!-- Android -->
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
