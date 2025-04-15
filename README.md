@@ -12,8 +12,8 @@
 ## 🔗 Connect with Me
 <p align="center">
   <!-- Esempio di social badge (simili a Komarev) -->
-  <a href="https://dev.to/wakaflocka17" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-wakaflocka17-black?style=for-the-badge&logo=dev.to" alt="Dev.to" />
+  <a href="https://huggingface.co/wakaflocka17" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-wakaflocka17-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
   <a href="https://linkedin.com/in/francesco-congiu-086243212" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Congiu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
