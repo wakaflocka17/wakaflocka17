@@ -2,9 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Esegui ogni giorno a mezzanotte IST (ora indiana)
-    - cron: '0 0 * * *'
-  workflow_dispatch:  # Permette di eseguire l'azione manualmente
+    - cron: '0 0 * * *'  # Esegui ogni giorno a mezzanotte UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -15,3 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TOTAL_CODE_TIME: "False"  # Disabilita il "Code Time"
+          SHOW_PROFILE_VIEWS: "False"  # Disabilita le visualizzazioni del profilo
+          SHOW_LOC_CHART: "False"  # Disabilita la Timeline (chart delle linee di codice)
