@@ -250,16 +250,8 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <!-- Le tue lingue più usate -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaflocka17&show_icons=true&locale=en&layout=compact" alt="wakaflocka17"/>
-  
-  <!-- Stats generali -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wakaflocka17&show_icons=true&locale=en" alt="wakaflocka17"/>
-  
-  <!-- Streak stats -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=wakaflocka17&" alt="wakaflocka17"/>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
