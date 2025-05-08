@@ -290,16 +290,17 @@ Sunday                   188 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RAG_PIPELINE             10 mins             █████████████████████░░░░   82.53 % 
+DLA_DEEPFAKEDETECTION    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -315,7 +316,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 01:12:09 UTC
+ Last Updated on 08/05/2025 01:12:34 UTC
 <!--END_SECTION:waka-->
 
 ---
