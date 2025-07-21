@@ -255,8 +255,6 @@
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -290,16 +288,16 @@ Sunday                   192 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RAG_PIPELINE             13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -315,7 +313,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025 01:26:07 UTC
+ Last Updated on 21/07/2025 01:24:21 UTC
 <!--END_SECTION:waka-->
 
 ---
