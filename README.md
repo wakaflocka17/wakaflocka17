@@ -255,12 +255,53 @@
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
+> 🏆 258 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌆 Daytime                664 commits         ████████████░░░░░░░░░░░░░   46.30 % 
+🌃 Evening                357 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌙 Night                  139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   389 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Wednesday                255 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Saturday                 118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Sunday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -274,7 +315,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 01:05:30 UTC
+ Last Updated on 31/08/2025 01:14:01 UTC
 <!--END_SECTION:waka-->
 
 ---
