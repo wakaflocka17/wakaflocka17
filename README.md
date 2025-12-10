@@ -44,13 +44,13 @@ with a focus on *confidentiality-aware and personalised learning*.
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 264 Contributions in the Year 2025
+> 🏆 484 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -104,7 +104,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 01:15:44 UTC
+ Last Updated on 10/12/2025 01:17:03 UTC
 <!--END_SECTION:waka-->
 
 ---
