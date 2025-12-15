@@ -32,7 +32,7 @@
 - 🎓 **Ph.D. Student in Teaching & Learning Sciences** @ [University of Cagliari](https://www.unica.it).  
 I work on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, and **Recommender Systems**,  
 with a focus on *confidentiality-aware and personalised learning*.
-- 💼 *All of my research activities and projects are available* [**here**](https://wakaflocka17.github.io).
+- 💼 *All of my research activities and projects are available* [**here**](https://francescocongiu.com).
 - 📫 **Contact me** at **francesco.congiu@acm.org**.
 
 ---
