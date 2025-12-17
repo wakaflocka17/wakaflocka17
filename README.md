@@ -1,6 +1,6 @@
 <!-- TITOLO E PRESENTAZIONE -->
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">A passionate Ph.D. student who likes to experiment and discover new things.</h3>
+<h3 align="center">A passionate PhD student who likes to experiment and discover new things.</h3>
 
 <!-- VISITE -->
 <p align="center">
@@ -29,7 +29,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Ph.D. Student in Teaching & Learning Sciences** @ [University of Cagliari](https://www.unica.it).  
+- 🎓 **PhD Student in Teaching & Learning Sciences** @ [University of Cagliari](https://www.unica.it).  
 I work on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, and **Recommender Systems**,  
 with a focus on *confidentiality-aware and personalised learning*.
 - 💼 *All of my research activities and projects are available* [**here**](https://francescocongiu.com).
