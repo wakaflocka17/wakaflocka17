@@ -44,7 +44,7 @@ with a focus on *confidentiality-aware and personalised learning*.
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +104,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 01:19:13 UTC
+ Last Updated on 01/01/2026 01:26:09 UTC
 <!--END_SECTION:waka-->
 
 ---
