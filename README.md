@@ -11,15 +11,17 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <!-- Esempio di social badge (simili a Komarev) -->
-  <a href="https://huggingface.co/wakaflocka17" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-wakaflocka17-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <a href="https://scholar.google.com/citations?user=3vvc7RAAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Francesco_Congiu-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://linkedin.com/in/francesco-congiu-086243212" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Francesco%20Congiu-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-</a>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Francesco%20Congiu-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
   <a href="https://instagram.com/wakaflocka17" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-wakaflocka17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://huggingface.co/wakaflocka17" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-wakaflocka17-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   </a>
   <a href="https://www.leetcode.com/wakaflocka17" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-wakaflocka17-228B22?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
