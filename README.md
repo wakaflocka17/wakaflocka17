@@ -17,9 +17,6 @@
   <a href="https://linkedin.com/in/francesco-congiu-086243212" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Francesco%20Congiu-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/wakaflocka17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-wakaflocka17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://huggingface.co/wakaflocka17" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-wakaflocka17-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   </a>
